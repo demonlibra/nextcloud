@@ -12,3 +12,5 @@ Notes:
 - Thumbnail generating not immediately. Activating by cron.
 - Thumbnail generating for file less than set size.
 - Thumbnail not generating if png file already exist.
+
+<img src="https://github.com/demonlibra/nextcloud/blob/main/model_thumb/model_thumb_config.png" width="400"> <img src="https://github.com/demonlibra/nextcloud/blob/main/model_thumb/model_thumb_demo.png" width="400">
