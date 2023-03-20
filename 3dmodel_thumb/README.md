@@ -4,8 +4,8 @@
 
 Install Workflow external scripts and create bash script to generate thumbnail for STL and STEP models.
 
-For generate thumbnail from STL using minirender.
-For STEP a temporary STL file is creating by PrusaSlicer.
+For generate thumbnail from STL using [aslze/minirender](https://github.com/aslze/minirender).
+For STEP a temporary STL file is creating by [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer).
 
 Notes:
 - Thumbnail generating when stl/step file adding or updating.
