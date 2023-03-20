@@ -8,7 +8,7 @@ For generate thumbnail from **obj**, **stl** and **x3d** using **[aslze/minirend
 For **3mf**, **amf** and **step** temporary **stl** file is creating by **[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)**.
 
 ## Notes:
-- Thumbnail generating when stl/step file adding or updating.
+- Thumbnail generating when file adding or updating.
 - Thumbnail generating not immediately. Activating by cron.
 - Thumbnail generating for file less than set size.
 - Thumbnail not generating if png file already exist.
