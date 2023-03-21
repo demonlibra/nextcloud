@@ -1,11 +1,11 @@
-# Thumbnails (preview) for 3mf, amf, obj, step, stl, x3d 3d-models 
+# Thumbnails (preview) for iges, obj, step, stl, x3d 3d-models 
 
 **[Nextcloud forum](https://help.nextcloud.com/t/thumbnail-for-stl-and-step-files/158115)**
 
 Install Workflow external scripts and create bash script to generate thumbnails.
 
 For generate thumbnail from **obj**, **stl** and **x3d** using **[aslze/minirender](https://github.com/aslze/minirender)**.  
-For **3mf**, **amf** and **step** temporary **stl** file is creating by **[PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)**.
+For **iges** and **step** temporary **stl** file is creating by **[gmsh](https://gmsh.info)**.
 
 ## Notes:
 - Thumbnail generating when file adding or updating.
