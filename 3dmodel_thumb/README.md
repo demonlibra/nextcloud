@@ -13,4 +13,4 @@ For **3mf**, **amf** and **step** temporary **stl** file is creating by **[Prusa
 - Thumbnail generating for file less than set size.
 - Thumbnail not generating if png file already exist.
 
-<img src="https://github.com/demonlibra/nextcloud/blob/main/3dmodel_thumb/model_thumb_config.png" width="400"> <img src="https://github.com/demonlibra/nextcloud/blob/main/3dmodel_thumb/model_thumb_demo.png" width="400">
+<img src="https://github.com/demonlibra/nextcloud/blob/main/3dmodel_thumb/3dmodel_thumb_config.png" width="400"> <img src="https://github.com/demonlibra/nextcloud/blob/main/3dmodel_thumb/3dmodel_thumb_demo.png" width="400">
